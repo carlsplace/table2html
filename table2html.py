@@ -1,3 +1,14 @@
+# -*- encoding=utf8 -*-
+
+'''
+FileName:   table2html.py
+Author:     Chang YC
+@contact:   chang.yc@outlook.com
+@version:   $Id$
+Description:
+Changelog:
+'''
+
 import csv
 import argparse
 
